@@ -5,3 +5,5 @@
 - 💬 Ask me about my studies, job, social life, sports, code etc
 - 📫 How to reach me: You can connect with me on LinkedIn following this link -> https://www.linkedin.com/in/kadin-pegram-15982118b/
 - ⚡ Fun fact: I was born at the time 11:11
+- 👔 I am currently a mobile app developer for General Motors.
+- I am working with TypeScript, JavaScript, and React Native.
