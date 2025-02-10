@@ -8,8 +8,7 @@
 - Advocate for clean, scalable code, automation efficiency, and collaborative development.  
 
 🚀 **What I’m Working On:**  
-- AI-powered apps for professional and personal productivity.  
-- Financial literacy tools to empower smart money habits.  
+- AI-powered mobile app Jetset for enhanced travel planning.   
 - Exploring Firebase, backend integration, and automation testing frameworks.  
 
 💡 **Skills & Interests:**  
